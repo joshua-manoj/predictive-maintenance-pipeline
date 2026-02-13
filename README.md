@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project simulates an End-to-End Industrial IoT (IIoT) pipeline designed to predict engine failures before they occur. Using a dataset of over 100,000 sensor readings, I built a system that ingests raw telemetry data, processes it for degradation signals, and visualizes actionable insights for maintenance teams.
 
-!<img width="1358" height="765" alt="Reliability Command Center" src="https://github.com/user-attachments/assets/697671ab-2248-477e-99b7-bc85a330734f" />
+<img width="1358" height="765" alt="Reliability Command Center" src="https://github.com/user-attachments/assets/697671ab-2248-477e-99b7-bc85a330734f" />
 
 
 ## 🛠️ Tech Stack
