@@ -14,8 +14,9 @@ This project simulates an End-to-End Industrial IoT (IIoT) pipeline designed to 
 * **Operational Value:** Created a "Command Center" view to prioritize maintenance work orders.
 
 ## 📂 File Structure
+* `Data Clean txt to CSV.py` - .
 * `maintenance_analysis.py` - The Python script for signal processing and degradation detection.
-* `fleet_health_dashboard_data.csv` - The processed dataset used for the visualization.
+* `Final_dashboard_data.csv` - The processed dataset used for the visualization.
 * `dashboard_screenshot.jpg` - A view of the Executive Fleet Console.
 
 ---
