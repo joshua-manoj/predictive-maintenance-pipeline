@@ -17,7 +17,7 @@ This project simulates an End-to-End Industrial IoT (IIoT) pipeline designed to 
 * **Operational Value:** Created a "Command Center" view to prioritize maintenance work orders.
 
 ## 📂 File Structure
-* **`Reliability Command Center`**
+* **`Reliability Command Center.png`**
   * *Description:* A screenshot of the final "Reliability Command Center" dashboard. It visualizes the real-time thermal trend analysis (top) and the fleet health status (bottom), highlighting critical assets in red.
 
 * **`Data_Clean_txt_to_CSV_py.ipynb`**
